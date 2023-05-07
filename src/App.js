@@ -1,5 +1,5 @@
 import './App.css';
-import Card from './components/Card';
+import Cards from './components/Cards';
 import Carousel from './components/Carousel';
 import NavBar from './components/NavBar';
 function App() {
@@ -7,7 +7,7 @@ function App() {
   <>
   <NavBar />
   <Carousel />
-  <Card />
+  <Cards />
 
   </>
   );
